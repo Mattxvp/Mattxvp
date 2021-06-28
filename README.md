@@ -24,7 +24,6 @@ I am passionate about programming and technology. I am eager to learn more and m
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=orange) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=orange)  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=orange) ![](https://img.shields.io/badge/Tool-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=orange)     ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=orange)
 
 
-![Snake animation](https://github.com/Mattxvp/Mattxvp/blob/output/github-contribution-grid-snake.svg)
 
 
 
