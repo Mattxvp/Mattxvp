@@ -4,7 +4,7 @@
 
 - 🎓 I'm studying Software Engineering at Unicesumar University in Maringá - PR
 -  👨🏻‍🎓 I'm graduated in Computer Technician by Senac -RS
--  🚀 I'm currently leaning | **JavaScript, ReactJS, NodeJS**
+-  🚀 I'm currently learning | **JavaScript, ReactJS, NodeJS**
 
 I'm passionate about programming and technology. I always want to learn a lot more, I always try to become a better professional for both myself and the company. 
 #neverStopLearning
